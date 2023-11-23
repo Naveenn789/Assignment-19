@@ -8,9 +8,15 @@ namespace ShapeAreaLib
 {
     public class Rectangle
     {
-        public double Area(double a ,double b)
+        public double Area()
         {
-            return a * b;
+            Console.WriteLine("Enter length of the Rectangle : ");
+            double a = double.Parse(Console.ReadLine());
+            Console.WriteLine("Enter breadth of the Rectangle : ");
+            double b = double.Parse(Console.ReadLine());
+            Console.WriteLine("Area of the Reactangle is : ");
+            double area = a* b; 
+            return area;
         }
     }
 }

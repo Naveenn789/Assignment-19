@@ -8,9 +8,13 @@ namespace ShapeAreaLib
 {
     public class Square
     {
-        public double Area(double a)
+        public double Area()
         {
-            return a * a;
+            Console.WriteLine("Enter side of the Square ");
+            double a = double.Parse(Console.ReadLine());
+            Console.WriteLine("Area of the Square is : ");
+            double area = a * a;
+            return area;
         }
     }
 }

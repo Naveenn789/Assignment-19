@@ -11,19 +11,14 @@ namespace ConAppRealAlgebra
     {
         static void Main(string[] args)
         {
-            Rectangle rectangle = new Rectangle();
-            Console.WriteLine("Area of the Reactangle is : ");
-            Console.WriteLine(rectangle.Area(10, 20));
-            Square square = new Square();
-            Console.WriteLine("Area of the Square is : ");
-            Console.WriteLine(square.Area(10));
-            Circle circle = new Circle();
-            Console.WriteLine("Area of the Circle is : ");
-            Console.WriteLine(circle.Area(7));
-            Triangle triangle = new Triangle();
-            Console.WriteLine("Area of the Triangle is : ");
-            Console.WriteLine(triangle.Area(20, 30));
-
+            Rectangle rectangle = new Rectangle();           
+            Console.WriteLine(rectangle.Area());
+            Square square = new Square();           
+            Console.WriteLine(square.Area());
+            Circle circle = new Circle();            
+            Console.WriteLine(circle.Area());
+            Triangle triangle = new Triangle();          
+            Console.WriteLine(triangle.Area());
             Console.ReadKey();
 
         }
