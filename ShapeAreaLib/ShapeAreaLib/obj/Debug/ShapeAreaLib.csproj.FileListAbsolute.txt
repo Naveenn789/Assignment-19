@@ -1,0 +1,6 @@
+C:\Mphasis\Day-14\Assignment\ShapeAreaLib\ShapeAreaLib\bin\Debug\ShapeAreaLib.dll
+C:\Mphasis\Day-14\Assignment\ShapeAreaLib\ShapeAreaLib\bin\Debug\ShapeAreaLib.pdb
+C:\Mphasis\Day-14\Assignment\ShapeAreaLib\ShapeAreaLib\obj\Debug\ShapeAreaLib.csproj.AssemblyReference.cache
+C:\Mphasis\Day-14\Assignment\ShapeAreaLib\ShapeAreaLib\obj\Debug\ShapeAreaLib.csproj.CoreCompileInputs.cache
+C:\Mphasis\Day-14\Assignment\ShapeAreaLib\ShapeAreaLib\obj\Debug\ShapeAreaLib.dll
+C:\Mphasis\Day-14\Assignment\ShapeAreaLib\ShapeAreaLib\obj\Debug\ShapeAreaLib.pdb

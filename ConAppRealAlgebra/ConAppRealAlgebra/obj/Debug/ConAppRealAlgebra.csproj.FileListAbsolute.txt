@@ -1,0 +1,10 @@
+C:\Mphasis\Day-14\Assignment\ConAppRealAlgebra\ConAppRealAlgebra\bin\Debug\ConAppRealAlgebra.exe.config
+C:\Mphasis\Day-14\Assignment\ConAppRealAlgebra\ConAppRealAlgebra\bin\Debug\ConAppRealAlgebra.exe
+C:\Mphasis\Day-14\Assignment\ConAppRealAlgebra\ConAppRealAlgebra\bin\Debug\ConAppRealAlgebra.pdb
+C:\Mphasis\Day-14\Assignment\ConAppRealAlgebra\ConAppRealAlgebra\bin\Debug\ShapeAreaLib.dll
+C:\Mphasis\Day-14\Assignment\ConAppRealAlgebra\ConAppRealAlgebra\bin\Debug\ShapeAreaLib.pdb
+C:\Mphasis\Day-14\Assignment\ConAppRealAlgebra\ConAppRealAlgebra\obj\Debug\ConAppRealAlgebra.csproj.AssemblyReference.cache
+C:\Mphasis\Day-14\Assignment\ConAppRealAlgebra\ConAppRealAlgebra\obj\Debug\ConAppRealAlgebra.csproj.CoreCompileInputs.cache
+C:\Mphasis\Day-14\Assignment\ConAppRealAlgebra\ConAppRealAlgebra\obj\Debug\ConAppRealAlgebra.csproj.CopyComplete
+C:\Mphasis\Day-14\Assignment\ConAppRealAlgebra\ConAppRealAlgebra\obj\Debug\ConAppRealAlgebra.exe
+C:\Mphasis\Day-14\Assignment\ConAppRealAlgebra\ConAppRealAlgebra\obj\Debug\ConAppRealAlgebra.pdb
